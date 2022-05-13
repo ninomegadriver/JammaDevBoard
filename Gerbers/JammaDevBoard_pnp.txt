@@ -1,0 +1,96 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=JammaDevBoard
+*Date=19:41:21
+*CreatedBy=Fritzing 0.9.6b..0.9.6
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;dil28-3;81.9086;-24.41;0;Bottom;IC4
+2;220;THT;12.3986;-42.48;-90;Bottom;Bt1
+3;;SO;97.6148;-46.495;90;Top;Part1
+4;;;94.9988;-43.2;0;Bottom;Via5
+5;220;THT;12.2786;-19.6;0;Bottom;Bt6
+6;;;61.5145;-35.1335;0;Bottom;TXT2
+7;;;41.5793;-52.7704;0;Bottom;TXT4
+8;;THT;107.999;-43.71;0;Bottom;+5V
+9;;THT;75.9686;-43.4;90;Bottom;Blue
+10;220;THT;9.79859;-42.48;-90;Bottom;Bt2
+11;220;THT;12.2786;-24.8;0;Bottom;Bt4
+12;;THT;74.7985;-53.53;0;Bottom;J6
+13;;;101.105;-16.5443;0;Bottom;TXT3
+14;;THT;56.5987;-69.025;180;Bottom;J5
+15;;THT;17.3586;-50;-90;Bottom;J11
+16;;THT;75.9686;-48.6;90;Bottom;Red
+17;220;THT;27.5985;-42.48;-90;Bottom;Coin
+18;;THT;89.8686;-54.27;0;Bottom;+12V
+19;220;THT;53.1987;-42.48;-90;Bottom;Test
+20;100nF;100 mil [THT, multilayer];100.469;-51.2;0;Bottom;C2
+21;;THT;37.4888;-16.1301;90;Bottom;J16
+22;;db9;16.8586;-3.10991;180;Bottom;Player 3
+23;;THT;3.32865;-28.55;0;Bottom;Kicks
+24;;;12.8151;-27.7392;0;Bottom;TXT7
+25;;;37.1109;-24.6422;0;Bottom;TXT5
+26;;db9;80.6933;-3.10991;180;Bottom;Player 7
+27;;;17.3083;-52.7704;0;Bottom;TXT4
+28;220;THT;12.2786;-22.2002;0;Bottom;Bt5
+29;220;THT;12.2786;-34.8;0;Bottom;Bt4
+30;;;48.4662;-22.8472;0;Bottom;TXT5
+31;;THT;104.129;-27.78;0;Bottom;J20
+32;;usb-b-pth;104.949;-6.56871;-90;Bottom;USB
+33;;THT;105.069;-15.33;0;Bottom;J12
+34;;THT;40.3587;-50;-90;Bottom;J10
+35;;THT;75.9686;-38.2;90;Bottom;VGND
+36;;THT;75.9686;-40.8;90;Bottom;Sync
+37;;;100.199;-43.2;0;Bottom;Via4
+38;;THT;54.5288;-50;90;Bottom;J9
+39;220;THT;30.1987;-42.48;-90;Bottom;Bt3
+40;;db9;48.761;-10.5101;180;Bottom;Player 6
+41;;db9;80.6933;-10.5101;180;Bottom;Player 8
+42;;;110.327;-13.7484;0;Bottom;TXT3
+43;220;THT;19.9985;-42.48;-90;Bottom;Down
+44;;THT;37.4888;-32.33;90;Bottom;J15
+45;;THT;104.799;-52.93;0;Bottom;J21
+46;220;THT;7.19858;-42.48;-90;Bottom;Bt3
+47;220;THT;50.5986;-42.48;-90;Bottom;Coin
+48;220;THT;55.7988;-42.48;-90;Bottom;SVC
+49;;THT;81.8885;-32.53;90;Bottom;J18
+50;220;THT;12.2786;-29.6;0;Bottom;Bt6
+51;;;101.204;-13.7484;0;Bottom;TXT3
+52;220;THT;40.3988;-42.48;-90;Bottom;Left
+53;;THT;59.9285;-23.5901;0;Bottom;J17
+54;;;50.8885;-24.8144;90;Bottom;IMG2
+55;220;THT;47.9987;-42.48;-90;Bottom;Start
+56;220;THT;17.3987;-42.48;-90;Bottom;Left
+57;220;THT;35.3986;-42.48;-90;Bottom;Bt1
+58;220;THT;42.9986;-42.48;-90;Bottom;Down
+59;;;81.9561;-24.3463;0;Bottom;IMG1
+60;220;THT;45.3986;-42.48;-90;Bottom;Up
+61;;THT;91.2687;-43.52;0;Bottom;J8
+62;220;THT;14.9987;-42.48;-90;Bottom;Right
+63;220;THT;22.3985;-42.48;-90;Bottom;Up
+64;;db9;48.761;-3.10991;180;Bottom;Player 4
+65;;db9;16.8509;-10.5501;180;Bottom;Player 5
+66;;;80.6592;-54.7384;0;Bottom;TXT1
+67;;THT;104.069;-43.52;0;Bottom;J7
+68;;THT;110.799;-43.77;0;Bottom;GND
+69;;THT;75.9686;-46;90;Bottom;Green
+70;;;80.7808;-52.1118;0;Bottom;TXT1
+71;220;THT;12.2786;-32.2001;0;Bottom;Bt5
+72;;dil28-3;37.5086;-24.41;0;Bottom;IC3
+73;220;THT;37.9987;-42.48;-90;Bottom;Right
+74;;;12.4056;-17.6808;0;Bottom;TXT7
+75;220;THT;32.7987;-42.48;-90;Bottom;Bt2
+76;;;109.762;-16.5706;0;Bottom;TXT3
+77;;;57.9986;-35.4;0;Bottom;Via3
+78;220;THT;24.9987;-42.48;-90;Bottom;Start
+79;5V;to220-igo;97.9986;-54.5175;0;Bottom;IC5
+80;100nF;100 mil [THT, multilayer];95.8687;-51.2;0;Bottom;C1
+81;;THT;81.8885;-16.1301;90;Bottom;J19
